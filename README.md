@@ -6,15 +6,16 @@
 - 🌱 I’m currently learning **Big Data Analytics and Generative AI**
 
 <p>💬 <strong>Ask me about</strong></p>
-<p>DataBases: MySQL, MongoDB, HiveSQL</p>
-<p>Visualization Tools: Tableau, Power BI, Microsoft Excel</p>
-<p>Programming: Python, R, Java</p>
-<p>Big Data Technologies: Hadoop, Apache Spark, Airflow, Kafka</p>
-<p>Data Analysis: Statistics, Pandas, NumPy, Scikit-Learn, Data Cleaning, EDA</p>
-<p>Machine Learning & Deep Learning: TensorFlow, PyTorch, Keras</p>
-<p>Generative AI: NLP, Computer Vision</p>
-<p>Operating System: Linux</p>
-<p>Cloud Computing (AWS): VPC, EC2, S3, Lambda</p>
+<p><strong>DataBases:</strong> MySQL, MongoDB, HiveSQL</p>
+<p><strong>Visualization Tools:</strong> Tableau, Power BI, Microsoft Excel</p>
+<p><strong>Programming:</strong> Python, R, Java</p>
+<p><strong>Big Data Technologies:</strong> Hadoop, Apache Spark, Airflow, Kafka</p>
+<p><strong>Data Analysis:</strong> Statistics, Pandas, NumPy, Scikit-Learn, Data Cleaning, EDA</p>
+<p><strong>Machine Learning & Deep Learning:</strong> TensorFlow, PyTorch, Keras</p>
+<p><strong>Generative AI:</strong> NLP, Computer Vision</p>
+<p><strong>Operating System:</strong> Linux</p>
+<p><strong>Cloud Computing (AWS):</strong> VPC, EC2, S3, Lambda</p>
+
 
 - 📫 How to reach me **ishanz2002@gmail.com**
 
