@@ -4,15 +4,17 @@
 - 🔭 I’m currently working on **Projects**
 
 - 🌱 I’m currently learning **Big Data Analytics and Generative AI**
-
-- 💬 Ask me about --> Database : MySQL, MongoDB, Cassandra
-                      Big Data Technologies : Hadoop, Spark, Hive, HBase, Airflow, Kafka
-                      Programming Languages : Python, R, Java, SQL
-                      Data Visualization : Tableau, Power BI, Advanced Excel
-                      Operating System : Linux • Machine Learning Frameworks : TensorFlow, PyTorch, Keras
-                      Deep Learning and Generative AI : NLP, Computer Vision
-                      Cloud Computing and AWS: VPC, EC2, S3 Bucket, Lambda Expression
-
+<p>
+- 💬 **Ask me about** --> DataBases: MySQL, MongoDB, HiveSQL
+Visualization Tools: Tableau, Power BI, Microsoft Excel
+Programming: Python, R, Java
+Big Data Technologies: Hadoop, Apache Spark, Airflow, Kafka
+Data Analysis: Statistics, Pandas, NumPy, Scikit-Learn, Data Cleaning, EDA
+Machine Learning & Deep Learning: TensorFlow, PyTorch, Keras
+Generative AI: NLP, Computer Vision
+Operating System: Linux
+Cloud Computing(AWS): VPC, EC2, S3, Lambda
+</p>
 - 📫 How to reach me **ishanz2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
