@@ -6,12 +6,12 @@
 - 🌱 I’m currently learning **Big Data Analytics and Generative AI**
 
 - 💬 Ask me about --> Database : MySQL, MongoDB, Cassandra
--                     Big Data Technologies : Hadoop, Spark, Hive, HBase, Airflow, Kafka
--                     Programming Languages : Python, R, Java, SQL
--                     Data Visualization : Tableau, Power BI, Advanced Excel
--                     Operating System : Linux • Machine Learning Frameworks : TensorFlow, PyTorch, Keras
--                     Deep Learning and Generative AI : NLP, Computer Vision
--                     Cloud Computing and AWS: VPC, EC2, S3 Bucket, Lambda Expression
+                      Big Data Technologies : Hadoop, Spark, Hive, HBase, Airflow, Kafka
+                      Programming Languages : Python, R, Java, SQL
+                      Data Visualization : Tableau, Power BI, Advanced Excel
+                      Operating System : Linux • Machine Learning Frameworks : TensorFlow, PyTorch, Keras
+                      Deep Learning and Generative AI : NLP, Computer Vision
+                      Cloud Computing and AWS: VPC, EC2, S3 Bucket, Lambda Expression
 
 - 📫 How to reach me **ishanz2002@gmail.com**
 
