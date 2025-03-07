@@ -4,17 +4,18 @@
 - 🔭 I’m currently working on **Projects**
 
 - 🌱 I’m currently learning **Big Data Analytics and Generative AI**
-<p>
-- 💬 **Ask me about** --> DataBases: MySQL, MongoDB, HiveSQL
-Visualization Tools: Tableau, Power BI, Microsoft Excel
-Programming: Python, R, Java
-Big Data Technologies: Hadoop, Apache Spark, Airflow, Kafka
-Data Analysis: Statistics, Pandas, NumPy, Scikit-Learn, Data Cleaning, EDA
-Machine Learning & Deep Learning: TensorFlow, PyTorch, Keras
-Generative AI: NLP, Computer Vision
-Operating System: Linux
-Cloud Computing(AWS): VPC, EC2, S3, Lambda
-</p>
+
+<p>💬 <strong>Ask me about</strong></p>
+<p>DataBases: MySQL, MongoDB, HiveSQL</p>
+<p>Visualization Tools: Tableau, Power BI, Microsoft Excel</p>
+<p>Programming: Python, R, Java</p>
+<p>Big Data Technologies: Hadoop, Apache Spark, Airflow, Kafka</p>
+<p>Data Analysis: Statistics, Pandas, NumPy, Scikit-Learn, Data Cleaning, EDA</p>
+<p>Machine Learning & Deep Learning: TensorFlow, PyTorch, Keras</p>
+<p>Generative AI: NLP, Computer Vision</p>
+<p>Operating System: Linux</p>
+<p>Cloud Computing (AWS): VPC, EC2, S3, Lambda</p>
+
 - 📫 How to reach me **ishanz2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
