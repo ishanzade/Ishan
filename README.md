@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Zade</h1>
-<h3 align="center">Computer Science graduate with a PG Diploma in Big Data Analytics, proficient in Python, Big Data, and Machine Learning. Eager to leverage technical expertise in Data Engineering, Data Analysis, or Data Science. Passionate about delivering insightful, data-driven solutions. Seeking to contribute to innovative projects in a dynamic work environment.</h3>
+<h3 align="center">AI/ML Engineer with strong Python, machine learning, and data visualization skills, contributing to generative AI projects and streamlining data processes.</h3>
 
 - 🔭 I’m currently working on **Projects**
 
